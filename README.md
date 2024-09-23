@@ -2,6 +2,10 @@
 Automatic Rent Reminder using ESP8266
 
 
+## YouTube Guide ## 
+[![Automatic Rent Reminder](https://github.com/user-attachments/assets/75c9d620-fd19-474d-be04-9909eed1407b)](https://youtu.be/6PibLeOou1U)
+
+## High Level Diagram ##
 ![img](https://github.com/user-attachments/assets/3689a772-6947-4430-809e-e9d330683a85)
 
 ### Hardware Requirements ###
