@@ -6,6 +6,7 @@ Automatic Rent Reminder using ESP8266
 - 1.ESP8266 Module
 - 2.TDA7297 12V Stereo Noiseless Audio Power Amplifier
 - 3.DFRobot DFPlayer -A Mini MP3 Player
+- Mini SD Card
 - 4.Speaker as per requirements
 - 5.12 Volt 5 Amp SMPS Adapter
 - 6.Jumper Wires
