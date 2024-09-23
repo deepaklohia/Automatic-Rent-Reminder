@@ -1,6 +1,9 @@
 # Automatic-Rent-Reminder
 Automatic Rent Reminder using ESP8266
 
+
+![img](https://github.com/user-attachments/assets/3689a772-6947-4430-809e-e9d330683a85)
+
 ### Hardware Requirements ###
 
 - 1.ESP8266 Module
@@ -18,3 +21,5 @@ Automatic Rent Reminder using ESP8266
 ![image](https://github.com/user-attachments/assets/4f1fad7c-a3df-42e2-a1df-3c31b30b771c)
 
 
+DF Mini Help Link
+https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299
